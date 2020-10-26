@@ -19,4 +19,6 @@ seguir , ai sim mesclar sendo um contato da pessoa que seguiu e mesclar no porti
 e a curtiçao tambem com uma data prevista e cobrando do fundo finalizando quanda a data finalizar , 
 como um tempo de vida on line da publicidade , de giro viralizaçao . 
 
+pra nao ficar a vida toda a promoçao de uma curtiçao ou reuter no portifolio gerando banco de dados e pesando a rede . 
+
 mas eu estou disponivel pra explicar pessualmente o que eu pensei 
