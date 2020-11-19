@@ -1,7 +1,7 @@
 # twitter-moisesfdl
 twitter
 
-https://twitter.com/moisesfdl
+url="www.twitter.com/moisesfdl/"
 
 seria interessante , ter uma definiçao de publicidade ou proganda e ate reclamaçao 
 definindo a reuters 
